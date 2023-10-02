@@ -2,8 +2,8 @@
 ## Schedule
 | Lecture | Homework | Project |
 | --- | --- | --- |
-| [Introduction to Linux, basic concepts & components and distros](https://docs.google.com/presentation/d/1p2YNxPLr5HKHftWlEb7NCardxIPCnGUJ03lCYDn_x38/edit?usp=sharing) | Install your favourite Linux distribution |  |
-| [Shell scripting](https://docs.google.com/presentation/d/1sLYzrWXQK5yw9mOeftwToUOUQwliaCj8ws4X3gLw2PE/edit?usp=sharing) | Comming soon... |  |
+| [Linux intro](https://docs.google.com/presentation/d/1p2YNxPLr5HKHftWlEb7NCardxIPCnGUJ03lCYDn_x38/edit?usp=sharing) | Install your favourite Linux distribution |  |
+| [Shell](https://docs.google.com/presentation/d/1sLYzrWXQK5yw9mOeftwToUOUQwliaCj8ws4X3gLw2PE/edit?usp=sharing) | Comming soon... |  |
 | [Persistence](https://docs.google.com/presentation/d/1Y6sNMqxjA5cpckLZperFmI1qT5hrl1li2jaDLkK7sKk/edit?usp=sharing) ||  |  |
 | [Virtualization](https://docs.google.com/presentation/d/1pAMONisRE_YESsJRCZlIbGr7Xp-w8HCKJa4iFnz5nr8/edit?usp=sharing) ||  |  |
 | [Concurrency](https://docs.google.com/presentation/d/1jqudsHzsGNaAJcYoOgZ7EedRjvBsnh5pnD0O-lV31SA/edit?usp=sharing) ||  |  |
