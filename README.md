@@ -8,6 +8,7 @@ Allameh Tabataba'i University Operating Systems labs assets
 | [Persistence](https://docs.google.com/presentation/d/1Y6sNMqxjA5cpckLZperFmI1qT5hrl1li2jaDLkK7sKk/edit?usp=sharing) ||  |  |  |
 | [Virtualization](https://docs.google.com/presentation/d/1pAMONisRE_YESsJRCZlIbGr7Xp-w8HCKJa4iFnz5nr8/edit?usp=sharing) ||  |  |  |
 | [Concurrency](https://docs.google.com/presentation/d/1jqudsHzsGNaAJcYoOgZ7EedRjvBsnh5pnD0O-lV31SA/edit?usp=sharing) ||  |  |  |
+| [Synchronization](https://docs.google.com/presentation/d/1aAIO2y4IEO2Op_YVIVJIe0_brEeXjrRksD3f-deCSaM/edit?usp=sharing) ||  |  |  |
 | [Memory](https://docs.google.com/presentation/d/1lDSDytZfaRiYhMMuwOVxQIxQO6l0qTwG4VmS4oTOi8E/edit?usp=sharing) ||  |  |  |
 ## Useful resources
 - [Putting the “You” in CPU (short online book)](https://cpu.land)
