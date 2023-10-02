@@ -3,7 +3,7 @@ Allameh Tabataba'i University Operating Systems labs assets
 ## Schedule
 | Lecture | Homework | Project | Event |
 | --- | --- | --- | --- |
-| [Linux intro](https://docs.google.com/presentation/d/1p2YNxPLr5HKHftWlEb7NCardxIPCnGUJ03lCYDn_x38/edit?usp=sharing) | Install your favourite Linux distribution |  | LUG installfest |
+| [Linux intro](https://docs.google.com/presentation/d/1p2YNxPLr5HKHftWlEb7NCardxIPCnGUJ03lCYDn_x38/edit?usp=sharing) |  |  | LUG installfest |
 | [Shell](https://docs.google.com/presentation/d/1sLYzrWXQK5yw9mOeftwToUOUQwliaCj8ws4X3gLw2PE/edit?usp=sharing) | Comming soon... |  |  |
 | [Persistence](https://docs.google.com/presentation/d/1Y6sNMqxjA5cpckLZperFmI1qT5hrl1li2jaDLkK7sKk/edit?usp=sharing) ||  |  |  |
 | [Virtualization](https://docs.google.com/presentation/d/1pAMONisRE_YESsJRCZlIbGr7Xp-w8HCKJa4iFnz5nr8/edit?usp=sharing) ||  |  |  |
