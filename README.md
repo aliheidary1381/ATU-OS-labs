@@ -9,8 +9,9 @@
 | [Concurrency](https://docs.google.com/presentation/d/1jqudsHzsGNaAJcYoOgZ7EedRjvBsnh5pnD0O-lV31SA/edit?usp=sharing) ||  |  |
 | [Memory](https://docs.google.com/presentation/d/1lDSDytZfaRiYhMMuwOVxQIxQO6l0qTwG4VmS4oTOi8E/edit?usp=sharing) ||  |  |
 ## Useful resources
-- [Putting the “You” in CPU (online book)](https://cpu.land)
+- [Putting the “You” in CPU (short online book)](https://cpu.land)
 - [CS 162 (OS Course @ UC Berkeley)](https://cs162.org)
 - [CS-3210 (OS Course @ Georgia Tech)](https://tc.gts3.org/cs3210)
 - [BranchEducation (YouTube channel)](https://www.youtube.com/@BranchEducation/videos)
-- [Operating Systems: Three Easy Pieces](http://ostep.org)
+- [Operating Systems: Three Easy Pieces (book)](http://ostep.org)
+- [Operating System Concepts (our reference book)](https://www.os-book.com/OS10/)
