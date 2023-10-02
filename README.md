@@ -7,7 +7,7 @@ Allameh Tabataba'i University Operating Systems labs assets
 | [Shell](https://docs.google.com/presentation/d/1sLYzrWXQK5yw9mOeftwToUOUQwliaCj8ws4X3gLw2PE/edit?usp=sharing) | Comming soon... |  |  |
 | [Persistence](https://docs.google.com/presentation/d/1Y6sNMqxjA5cpckLZperFmI1qT5hrl1li2jaDLkK7sKk/edit?usp=sharing) |  | Dependability |  |
 | [Virtualization](https://docs.google.com/presentation/d/1pAMONisRE_YESsJRCZlIbGr7Xp-w8HCKJa4iFnz5nr8/edit?usp=sharing) | eBPF | Containerization |  |
-| [Concurrency](https://docs.google.com/presentation/d/1jqudsHzsGNaAJcYoOgZ7EedRjvBsnh5pnD0O-lV31SA/edit?usp=sharing) | [gRPC](https://inst.eecs.berkeley.edu/~cs162/sp23/static/hw/lab-grpc-rs) | Redis | [Hands on go synchronization](https://docs.google.com/presentation/d/1aAIO2y4IEO2Op_YVIVJIe0_brEeXjrRksD3f-deCSaM/edit?usp=sharing) |
+| [Concurrency](https://docs.google.com/presentation/d/1jqudsHzsGNaAJcYoOgZ7EedRjvBsnh5pnD0O-lV31SA/edit?usp=sharing) | [gRPC](https://inst.eecs.berkeley.edu/~cs162/sp23/static/hw/lab-grpc-rs) | [Redis](https://pdos.csail.mit.edu/6.824/labs/lab-raft.html) | [Hands on go synchronization](https://docs.google.com/presentation/d/1aAIO2y4IEO2Op_YVIVJIe0_brEeXjrRksD3f-deCSaM/edit?usp=sharing) |
 | [Memory](https://docs.google.com/presentation/d/1lDSDytZfaRiYhMMuwOVxQIxQO6l0qTwG4VmS4oTOi8E/edit?usp=sharing) | Linked list vs array and more puzzles | Caching |  |
 ## Complementary resources
 - [Putting the “You” in CPU (short online book)](https://cpu.land)
