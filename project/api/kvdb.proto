@@ -1,0 +1,32 @@
+// cd ATU-OS-labs/project
+// protoc --go_out=. --go-grpc_out=. ./api/kvdb.proto
+
+syntax = "proto3";
+
+package kvdb;
+
+option go_package = "server/internal/pb";
+
+service DB {
+  rpc Set(SetRequest)
+      returns (SetResponse);
+  rpc Get(GetRequest)
+      returns (GetResponse);
+}
+
+message GetRequest {
+  string key = 1;
+}
+
+message GetResponse {
+  string value = 1;
+}
+
+message SetRequest {
+  string key = 1;
+  string value = 2;
+}
+
+message SetResponse {
+  int32 status_code = 1;
+}
