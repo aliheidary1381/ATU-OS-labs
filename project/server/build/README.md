@@ -1,5 +1,5 @@
 #### Ceph
-A replicated service in a distributed system (like Ceph which you will use) achieves fault tolerance
+A replicated service in a distributed system (like Ceph) achieves fault tolerance
 by storing complete copies of its state (i.e., data) on multiple replica servers.
 Replication allows the service to continue operating
 even if some of its servers experience failures (crashes or a broken or flaky network).

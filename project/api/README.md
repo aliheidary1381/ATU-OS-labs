@@ -10,7 +10,7 @@ Effectively, RPCs abstract away the underlying serialization required for raw me
 - The RPC library deserializes the request on the server and runs `fileSys->Read("rutabaga")`, which returns a response.
 - The RPC library serializes the response, sends it to the client, and deserializes it to give the client the return value for its function call.
 
-Effectively, this allows the client to call a function on an entirely different machine as if it was just calling any other function.
+Effectively, this allows the client to call a function on an entirely different machine as if it were just calling any other function.
 
 
 In this lab, you will be familiarizing yourself with [gRPC](https://grpc.io/about/), an open-source remote procedure call (RPC) framework
@@ -22,8 +22,8 @@ For a brief rundown of how gRPC works, please read [this guide](https://grpc.io/
 
 ##### Serialization
 Serialization is the process of converting structures into bytes that can be sent via communication protocols like TCP,
-while deserialization recovers the original structures from the serialized bytes.
-Serialization formats specify how serialization and deserialization should take place,
+while deserialization recovers the original structure from the serialized bytes.
+Serialization formats specify how serialization and deserialization should occur,
 and allow communicating processes to understand the bytes being received from one another.
 JSON, XML, and protobuf are some common serialization formats that often find use in configuration files.
 
@@ -33,11 +33,11 @@ JSON, XML, and protobuf are some common serialization formats that often find us
 The `.proto` file has already been implemented for you. This specifies the API between the client (our load testing program) and your server.
 
 Reading the [protobuf tutorial](https://protobuf.dev/getting-started/gotutorial/),
-you'll find out how to compile protobuf `message`s to go-lang `structs` in `.pb.go`.
+you will find out how to compile protobuf `message`s to go-lang `structs` in `.pb.go`.
 This file is machine-generated and should not be edited.
 
 Reading the [gRPC tutorial](https://grpc.io/docs/languages/go/basics/),
-you'll find out how to compile protobuf `service`s and `rpc`s to go-lang `interfaces` and `func`s in `_grpc.pb.go`.
+you will find out how to compile protobuf `service`s and `rpc`s to go-lang `interfaces` and `func`s in `_grpc.pb.go`.
 This file is also machine-generated and should not be edited.
 
 The generated files are available at `server/internal/pb`
