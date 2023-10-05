@@ -20,10 +20,10 @@ The front-end load test has no constraints on the programming language of your c
 
 ### Roadmap
 1. [ ] Implement `DBServer`, passing all the tests.
-2. [ ] Write a load test (`DBClient`) and benchmark your app (ideally with k6).
+2. [ ] Write a load test (`DBClient`) and benchmark your app (ideally with [k6](https://k6.io)).
 3. [ ] Write a `Dockerfile` and build a containerized image, run it, and test it with **Postman**.
 4. [ ] Implement transaction journaling for persistence.
-5. [ ] Use [Ceph](https://hub.docker.com/r/ceph/ceph) along with the container you built.
+5. [ ] (optional) Use [Ceph](https://hub.docker.com/r/ceph/ceph) along with the container you built.
 6. [ ] Utilize caching and pipelining techniques to prevent the journaling procedure from slowing your program down.
 7. [ ] (optional) Deploy the whole package in Kubernetes.
 8. [ ] Stonks.
