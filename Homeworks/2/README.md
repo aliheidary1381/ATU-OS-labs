@@ -1,9 +1,13 @@
-## Bash Programming Exercises
-In this exercise, you should write a program so that if someone logs in to you're Linux PC/server you get noticed. The notification should have the date, the user that logs in, and if it's a remote connection, the source IP.
+## Shell scripting
+In this homework, you will write a notifying program that monitors when someone logs in to your Linux server (or PC).
+Notifications should be sent to two different destinations like _Discord_ & _Telegram_.
+The logs should include the following information about each event:
+* Date
+* Username
+* Hostname
+* The source IP If it's a remote connection.
 
-## Evaluations Points
-1. First of all your program should have instructions with `--help` or `-p`.
-2. Notification should be able to be sent to two different destinations like `Discord` & `Telegram`.
-3. Make sure the script runs every time someone entre to the system.
-4. You could implement a script on the `PAM` events or `TTY` events.
-5. DO NOT COPY-PASTE FROM THE NET, I WILL KNOW!
+## Remarks
+1. Your script should properly respond to `--help` and `-h` options.
+2. You can choose between implementing a script that listens to `PAM` events or `TTY` events.
+3. Make sure the script runs every time someone enters the system.
