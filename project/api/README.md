@@ -1,6 +1,8 @@
 ## gRPC guide
 _(Almost entirely copied from [here](https://inst.eecs.berkeley.edu/~cs162/sp23/static/hw/lab-grpc-rs/))_
 
+_Also, checkout [this video](https://youtu.be/gnchfOojMk4?si=9XG3Ygc3pygvFfxm) by ByteByteGo_
+
 Machines in a distributed system must communicate with one another.
 One method of doing this is using Remote Procedure Calls (RPCs), which make communication between machines look like ordinary function calls.
 Effectively, RPCs abstract away the underlying serialization required for raw messaging and allow for an interaction like this:

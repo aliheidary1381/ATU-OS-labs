@@ -1,6 +1,7 @@
 ## Intro
 This is a series of labs in which you'll build a somewhat fault-tolerant in-memory key-value database in Go,
 with journaling to support persistence (like [Redis](https://en.wikipedia.org/wiki/Redis)).
+Thanks to gRPC, your program will have an event-driven architecture which is easier to develop and understand.
 
 In this project ([inspired](https://pdos.csail.mit.edu/6.824/labs/lab-raft.html) by two labs from
 [MIT](https://pdos.csail.mit.edu/6.824/labs/lab-kvraft.html) and [Berkeley](https://inst.eecs.berkeley.edu/~cs162/sp23/static/hw/lab-grpc-rs)),
@@ -47,4 +48,5 @@ Or:
 Have you tried speaking to your partner about your expectations beforehand? Many group issues can be resolved by better communication and setting expectations. If talking to your partner does not resolve the situation, speak to course staff and explain the details of what has happened. We will try to help you resolve the issue.
 
 ## Additional resources
+- [Database Performance at Scale](https://www.scylladb.com/2023/10/02/introducing-database-performance-at-scale-a-free-open-source-book/)
 - National Suicide Prevention Hotline: 021-123
